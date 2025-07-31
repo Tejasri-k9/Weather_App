@@ -7,7 +7,7 @@ A simple weather web application built using HTML, CSS, and JavaScript. It allow
 
 🧰 Tech Stack
 
-1 .HTML5
+1. HTML5
 2. CSS3
 3. JavaScript
 4. OpenWeatherMap API
@@ -21,7 +21,8 @@ A simple weather web application built using HTML, CSS, and JavaScript. It allow
 
 📷 Screenshots
 
-<img width="1354" height="636" alt="image" src="https://github.com/user-attachments/assets/9d1ea72e-bc54-42ef-9039-6d74c6a9e6b3" />
+<img width="1349" height="633" alt="image" src="https://github.com/user-attachments/assets/4ac00024-5588-4de1-95b8-f861f1f946d5" />
+
 
 
 🛠️ Setup Instructions
@@ -31,7 +32,7 @@ Clone the repository:
 1. bash
 2. Copy
 3. Edit
-(git clone https://github.com/Tejasri-k9/Weather_App.git)
+ (git clone https://github.com/Tejasri-k9/Weather_App.git)
 5. Open the folder in your browser or using a live server extension.
 
 
